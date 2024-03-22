@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Controle {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite o primeiro parâmetro:");
